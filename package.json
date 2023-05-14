@@ -1,0 +1,26 @@
+{
+  "name": "relaxed-read",
+  "description": "A tool to help read with intermittent breaks (YouTube Shorts).",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "keywords": [
+    "relaxed",
+    "read"
+  ],
+  "author": "wolfram77@gmail.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfram77/relaxed-read.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wolfram77/relaxed-read/issues"
+  },
+  "homepage": "https://github.com/wolfram77/relaxed-read#readme",
+  "dependencies": {
+    "puppeteer": "^20.2.0"
+  }
+}
