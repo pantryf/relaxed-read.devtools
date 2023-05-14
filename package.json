@@ -1,7 +1,7 @@
 {
   "name": "relaxed-read",
   "description": "A tool to help read with intermittent breaks (YouTube Shorts).",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "scripts": {
     "test": "exit"
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/wolfram77/relaxed-read#readme",
   "dependencies": {
+    "extra-sleep": "^1.0.20",
     "puppeteer": "^20.2.0"
   }
 }
